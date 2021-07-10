@@ -1,7 +1,6 @@
 ### Automated Setup & Installation Guide for 
 ### "Spark/Kafka/MySQL/Cassandra/MongoDB/Confluent"
-### Single Node Cluster Environment
-### using light-weight script
+### Single Node Cluster Environment using light-weight script
 #### (Pseudo Distributed mode)
 #### Version- 2021V1
 ##### ==============================================================================
@@ -86,7 +85,7 @@
 		11538 Jps
 		
 ##### ==========================================================================
-##### USE SmarTTY/MobaXTerm/ WinSCP to Connect with the Linux Node fron Windows
+##### USE SmarTTY/MobaXTerm/ WinSCP to Connect with the Linux Node from Windows
 
 ##### ===========================================================================
 
